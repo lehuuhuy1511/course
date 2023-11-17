@@ -965,3 +965,4 @@
 2023-11-08/05:22:03		105559f8-8bb4-48b8-b3c9-cf2c5b533391		GET	undefined	 /
 2023-11-08/05:22:03		e12db029-d479-4093-9d5c-621db6f9b7dc		GET	undefined	 /css/style.css
 2023-11-10/04:15:49		30821161-9750-46e0-a26e-182961b0724a		GET	undefined	 /ask
+2023-11-17/08:53:22		1e798396-f965-45ab-a7d9-2ca73bb5d8c6		POST	undefined	 /login
