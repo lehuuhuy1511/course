@@ -54,7 +54,7 @@ const getContact = async (req, res) => {
 
 const updateContact = async function (req, res) {
     const { keyname, value } = req.body;
-    if (!keyname || !value)
+    if (keyname === "" || value === "")
         return res.status(401).json({ message: "Keyname or value is required." });
 
     const foundContact = await Contact.findOne({ keyname: keyname });
